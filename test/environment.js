@@ -1,5 +1,5 @@
-import testkit from 'wix-bootstrap-testkit';
-import configEmitter from 'wix-config-emitter';
+import testkit from '@wix/wix-bootstrap-testkit';
+import configEmitter from '@wix/wix-config-emitter';
 
 export const app = bootstrapServer();
 
